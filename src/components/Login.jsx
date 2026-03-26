@@ -16,7 +16,7 @@ function Login({ onGoToSignUp }) {
         <h1>Sign in</h1>
         <form onSubmit={handleSubmit}>
           <div className="field">
-            <label htmlFor="email">Email</label>
+            <label htmlFor="email">Email Login</label>
             <input
               id="email"
               type="email"
